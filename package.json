@@ -1,0 +1,66 @@
+{
+  "name": "react-hn",
+  "version": "1.0.0",
+  "description": "Hacker News clone built in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugpai/react_hn.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "jest",
+    "enzyme",
+    "jsdom",
+    "babel",
+    "webpack",
+    "pwa",
+    "node",
+    "express"
+  ],
+  "author": "Deepak Pai <debugpai@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugpai/react_hn/issues"
+  },
+  "homepage": "https://github.com/debugpai/react_hn#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "^20.0.3",
+    "babel-loader": "^7.0.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-react": "^7.0.1",
+    "file-loader": "^0.11.2",
+    "isomorphic-style-loader": "^2.0.0",
+    "stylelint-config-standard": "^16.0.0",
+    "url-loader": "^0.5.8",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "express": "^4.15.3",
+    "isomorphic-fetch": "^2.2.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "stylelint": "^7.10.1",
+    "webpack": "^2.6.1",
+    "webpack-merge": "^4.1.0"
+  }
+}
